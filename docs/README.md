@@ -11,7 +11,7 @@ I'll ensure to link back to my existing website pages so that you can listen to 
 Thank you for reading.
 Have a great day.
 
-<h1> <a href="https://bagrisham.github.io/Almanac/">Click HERE to see the list as actual HTML pages (instead of simple GitHub code docs)</a> </h1>
+<h1> Click <a href="https://bagrisham.github.io/Almanac/">HERE </a> to see the list as actual HTML pages<br>(instead of simple GitHub code docs)</h1>
 
 <h2> Music List <h2>
 
