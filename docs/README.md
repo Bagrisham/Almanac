@@ -13,6 +13,11 @@ Have a great day.
 
 <h2> Music List <h2>
 
-<p> 1. <a href="https://music.youtube.com/watch?v=Gciy9oG5678">Proud Mary</a>
+<p style="font-size:14px"> 1. <a href="https://music.youtube.com/watch?v=Gciy9oG5678">Proud Mary</a>
 <p>  2.  <a href="02-The_Steps.html">The Steps</a>
-
+<p>  3.  <a href="">The Steps</a>
+<p>  4.  <a href="">Achilles Come Down</a>
+<p>  5.  <a href="">It’s Oh so Quiet</a>
+<p>  6.  <a href="">Come On Out</a>
+<p>  7.  <a href="">Talking To Myself</a>
+<p>  7.  <a href="">Ain’t No Sunshine</a>
