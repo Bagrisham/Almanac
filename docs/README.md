@@ -17,8 +17,8 @@ Have a great day.
 
 <p> 1. <a href="https://music.youtube.com/watch?v=Gciy9oG5678">Proud Mary</a>
 <p>  2.  <a href="02-The_Steps.html">The Steps</a>
-<p>  3.  <a href="">Achilles Come Down</a>
-<p>  4.  <a href="">It’s Oh so Quiet</a>
+<p>  3.  <a href="03-Achilles_Come_Down.html">Achilles Come Down</a>
+<p>  4.  <a href="04-Its_Oh_so_Quiet.html">It’s Oh so Quiet</a>
 <p>  5.  <a href="">Come On Out</a>
 <p>  6.  <a href="">Talking To Myself</a>
 <p>  7.  <a href="">Ain’t No Sunshine</a>
