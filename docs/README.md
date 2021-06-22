@@ -28,9 +28,9 @@ Have a great day.
 <br>
 <h2> January 2021 <h2>
 
-<p>  8.  <a href="">Video Killed the Radio Star</a>
-<p>  9.  <a href="">Mr. Roboto</a>
-<p>  10.  <a href="">Easy</a>
+<p>  8.  <a href="08-Video_Killed_The_Radio_Star.html">Video Killed the Radio Star</a>
+<p>  9.  <a href="09-Mr_Roboto.html">Mr. Roboto</a>
+<p>  10.  <a href="10-Easy.html">Easy</a>
 <p>  11.  <a href="">The Logical Song</a>
 <p>  12.  <a href="">Peace of Mind</a>
 <p>  13.  <a href="">Turn to Stone</a>
